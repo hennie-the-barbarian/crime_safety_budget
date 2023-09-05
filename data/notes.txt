@@ -1,0 +1,8 @@
+Minneapolis, MN pid6 = 193551
+
+Police current operations - E62
+Police construction - F62
+Police, other capital outlay - G62
+Police, equipment only - K62
+Intergovernmental to local NEC Police - M62
+

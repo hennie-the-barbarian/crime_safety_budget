@@ -1,0 +1,9 @@
+pyproject.toml
+src/census_parse/__init__.py
+src/census_parse/main.py
+src/census_parse/parse_census.py
+src/census_parse.egg-info/PKG-INFO
+src/census_parse.egg-info/SOURCES.txt
+src/census_parse.egg-info/dependency_links.txt
+src/census_parse.egg-info/top_level.txt
+test/test_parse_census.py
